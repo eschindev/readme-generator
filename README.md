@@ -28,3 +28,7 @@ Test it manually--we haven't yet learned test-driven development
 [My GitHub Profile](https://github.com/eschindev)
 
 [Email me!](mailto:eschindler1993@gmail.com)
+
+## Video Demo
+
+[Watch this program in action](https://drive.google.com/file/d/18sLR-zvPv_uvSzpVbz3sGhw4vJE4ONEv/view)
